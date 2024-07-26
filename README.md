@@ -1,4 +1,4 @@
-# aircraft_damage_predictions
+# Aircraft_Damage_Predictions
 
 Project Overview
 
